@@ -1,0 +1,30 @@
+{
+    "books": [
+        {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "price": 10.99,
+            "publisher": "Charles Scribner's Sons",
+            "isbm_10": "9780743273565",
+            "isbm_13": "978-0-7432-6735-6",
+            "subtitle": "A lovely story of love, loss, and redemption"
+        },
+        {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "price": 8.99,
+            "publisher": "J. B. Lippincott & Co.",
+            "isbm_13": "978-0-44-631078-9",
+            "subtitle": "A classic novel of the South"
+        },
+        {
+            "title": "1984",
+            "author": "George Orwell",
+            "price": 9.99,
+            "publisher": "Secker & Warburg",
+            "isbm_10": "9720451524935",
+            "isbm_13": "978-0-4515-2493-5",
+            "subtitle": "A dystopian novel about a totalitarian society"
+        }
+    ]
+}
